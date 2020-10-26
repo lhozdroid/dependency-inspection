@@ -26,7 +26,7 @@ With that it searches into maven central repository for the dependency.
 Well, if the name is a mess it will try to look for information inside the JAR file in the MANIFEST.MF.  Sometimes the author(s) put information in there regarding name, package, version and so on, so it tries to get the information from there.
 <br />
 <br />
-<strong>What if the name is a mess and the JAR don't have a MANIFEST.MF?/</strong>
+<strong>What if the name is a mess and the JAR don't have a MANIFEST.MF?</strong>
 <br />
 <br />
 In that case it gets the JAR name (which is the closest thing we have to a name) and then takes each package (yes all of them) from the JAR and tries to search with the given name and each one of the packages as the group id.  Sometimes it will find a match. For instance if the JAR name is (considering we are still taking about the previous example):
