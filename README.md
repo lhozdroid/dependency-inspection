@@ -54,3 +54,9 @@ If all of this fails then it tells you that it was not found and that's it.
 <br />
 <br />
 If you are using the UI you will get 2 files in the selected folder that has all the JARs on it.  If you are not using the UI there is an object you can extract with the lists of found and missing.
+<br />
+<br />
+Now that you know all of this, if you like the project go ahead and <br /><br />
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CSQRVLE2D43NU&item_name=Buy+me+a+beer%21&currency_code=USD">
+  <strong>Buy me a dinner with my wife!</strong>
+</a>
