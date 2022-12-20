@@ -57,6 +57,6 @@ If you are using the UI you will get 2 files in the selected folder that has all
 <br />
 <br />
 Now that you know all of this, if you like the project go ahead and <br /><br />
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CSQRVLE2D43NU&item_name=Buy+me+a+dinner+with+my+wife%21&currency_code=USD">
-  <strong>Buy me a dinner with my wife!</strong>
+<a href="https://www.paypal.com/donate/?cmd=_donations&business=CSQRVLE2D43NU&item_name=Buy+me+a+beer!&currency_code=USD">
+  <strong>Buy me a beer!</strong>
 </a>
